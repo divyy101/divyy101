@@ -1,5 +1,23 @@
 # 💫 About Me:
-I am a motivated B.Tech Information Technology undergraduate with a strong foundation in Java programming, Data Structures & Algorithms, and web development fundamentals. I enjoy building clean, logical, and user-focused software projects that solve real-world problems. With hands-on experience in academic projects, hackathons, and team leadership, I am continuously improving my technical and problem-solving skills to prepare for software engineering roles.
+B.Tech Information Technology Undergraduate | Java | DSA | Web Development
+
+I’m a motivated Information Technology undergraduate with a strong foundation in Java programming, Data Structures & Algorithms, and web development fundamentals. I enjoy building clean, logical, and user-focused software that solves real-world problems.
+Through academic projects, hackathons, and leadership roles, I continuously sharpen my problem-solving mindset and software engineering skills to grow into an industry-ready developer.
+
+💡 Quote:
+“Good software is built twice — once in logic, once in code.”
+
+🚀 What I’m Currently Working On
+
+Strengthening DSA and problem-solving for interviews
+
+Building Java-based and web projects for real-world use cases
+
+Improving clean code practices and system thinking
+
+🎯 Fun Fact
+
+I enjoy debugging so much that I often fix bugs before adding new features — clean logic gives me more satisfaction than flashy UI 😄
 
 
 ## 🌐 Socials:
